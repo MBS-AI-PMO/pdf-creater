@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# PyInstaller output (rebuild with build.bat; publish the exe as a GitHub Release)
+build/
+dist/
+*.spec
